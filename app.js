@@ -7,7 +7,7 @@ var express = require('express')
   , app = express();
  
 // MongoDB
-mongoose.connect('mongodb://127.0.0.1/WidgetDB');
+mongoose.connect('mongodb://127.0.0.1/test');
  
 mongoose.connection.on('open', function() {
    console.log('Connected to Mongoose');
@@ -44,7 +44,7 @@ app.configure('development', function(){
 // top level
 app.get('/', main.index);
  
-var prefixes = ['widgets'];
+var prefixes = ['cities'];
  
 // map route to object controller
 prefixes.forEach(function(prefix) {

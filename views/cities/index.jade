@@ -1,0 +1,14 @@
+extends layout
+ 
+block content
+  table
+    caption Cities
+      if cities.length
+        tr
+          th Name
+          th Population
+          th Area
+          th
+        each city in cities
+          if city
+            include row

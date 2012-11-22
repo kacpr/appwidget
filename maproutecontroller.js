@@ -3,10 +3,11 @@ exports.mapRoute = function(app, prefix) {
    prefix = '/' + prefix;
  
    var prefixObj = require('./controllers/' + prefix);
- 
+	
+
    // index
    app.get(prefix, prefixObj.index);
- 
+/* 
    // add
    app.get(prefix + '/new', prefixObj.new);
  
@@ -24,5 +25,6 @@ exports.mapRoute = function(app, prefix) {
  
    // destroy
    app.del(prefix + '/:sn', prefixObj.destroy);
+*/
  
 };
