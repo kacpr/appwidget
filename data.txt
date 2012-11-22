@@ -1,0 +1,157 @@
+[
+{ 
+name: 'Berlin',
+population: 3337000,
+area: 883
+},
+{
+name: 'Chicago',
+population: 2732000,
+area: 591
+},
+{
+name: 'Hong Kong',
+population: 6097000,
+area: 1092
+},
+{
+name: 'London',
+population: 7640000,
+area: 1579
+},
+{
+name: 'Los Angeles',
+population: 13129000,
+area: 10515
+},
+{
+name: 'Madrit',
+population: 3284110,
+area: 607
+},
+{
+name: 'Mexico City',
+population: 18131000,
+area: 2330
+},
+{
+name: 'Miami',
+population: 2210000,
+area: 5037
+},
+{
+name: 'Paris',
+population: 2200000,
+area: 105
+},
+{
+name: 'New York',
+population: 7333000,
+area: 800
+},
+{
+name: 'Tokyo',
+population: 11781000,
+area: 2820
+},
+{
+name: 'Sydney',
+population: 3665000,
+area: 1735
+},
+{
+name: 'Washington D.C.',
+population: 3927000,
+area: 16861
+},
+{
+name: 'Houston',
+population: 3365000,
+area: 4920
+},
+{
+name: 'Istanbul',
+population: 9413000,
+area: 2204
+},
+{
+name: 'Jerusalem',
+population: 783791,
+area: 123
+},
+{
+name: 'Nairobi',
+population: 2320000,
+area: 689
+},
+{
+name: 'San Francisco',
+population: 724000,
+area: 122
+},
+{
+name: 'Rome',
+population: 2688000,
+area: 1502
+},
+{
+name: 'Toronto',
+population: 4657000,
+area: 634
+},
+{
+name: 'Phoenix',
+population: 1246712,
+area: 1225
+},
+{
+name: 'Prague',
+population: 1249000,
+area: 496
+},
+{
+name: 'Rio de Janeiro',
+population: 5600000,
+area: 1255
+},
+{
+name: 'Cairo',
+population: 8035000,
+area: 453
+},
+{
+name: 'Bangkok',
+population: 7221000,
+area: 2300
+},
+{
+name: 'Beijing',
+population: 7500000,
+area: 750
+},
+{
+name: 'Brussels',
+population: 1148000,
+area: 161
+},
+{
+name: 'Johannesburg',
+population: 2412000,
+area: 1100
+},
+{
+name: 'Caracas',
+population: 3153000,
+area: 1930
+},
+{
+name: 'Honolulu',
+population: 377050,
+area: 1540
+},
+{
+name: 'Lima',
+population: 7443000,
+area: 3900
+}
+]
